@@ -1,0 +1,11 @@
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\bin\Debug\24.07.10.exe.config
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\bin\Debug\24.07.10.exe
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\bin\Debug\24.07.10.pdb
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\24.07.10.csproj.AssemblyReference.cache
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\_24._07._10.Form1.resources
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\_24._07._10.Properties.Resources.resources
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\24.07.10.csproj.GenerateResource.cache
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\24.07.10.csproj.CoreCompileInputs.cache
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\24.07.10.exe
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\24.07.10.pdb
+C:\Users\YJ03\Desktop\24전국 경남 c#\24.07.10\24.07.10\obj\Debug\_24._07._10.certified.resources
